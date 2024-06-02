@@ -1,4 +1,3 @@
-
 # Inventario en Django
 
 ## Descripción
